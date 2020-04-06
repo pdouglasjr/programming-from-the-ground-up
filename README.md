@@ -1,1 +1,3 @@
-# programming-from-the-ground-up
+# Programming From The Ground Up
+# 
+# Author: Jonathan Bartlett
